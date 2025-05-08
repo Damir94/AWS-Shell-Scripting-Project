@@ -1,9 +1,3 @@
-# AWS-Shell-Scripting-Project
-
-###############################################################################
-# Author: Damir Abdurakhimov
-# Version: v0.0.1
-
 # Script to automate the process of listing all the resources in an AWS account
 #
 # Below are the services that are supported by this script:
@@ -27,4 +21,4 @@
 #
 # Usage: ./aws_resource_list.sh  <aws_region> <aws_service>
 # Example: ./aws_resource_list.sh us-east-1 ec2
-#############################################################################
+
