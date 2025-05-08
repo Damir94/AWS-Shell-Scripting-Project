@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Check if the required number of arguments are passed
 if [ $# -ne 2 ]; then
     echo "Usage: ./aws_resource_list.sh  <aws_region> <aws_service>"
