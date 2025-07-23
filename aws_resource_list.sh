@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Check if the required number of arguments are passed
